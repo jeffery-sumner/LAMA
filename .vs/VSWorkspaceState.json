@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\js",
     "\\images"
   ],
-  "SelectedNode": "\\Readme.txt",
+  "SelectedNode": "\\assets\\js\\main.js",
   "PreviewInSolutionExplorer": false
 }
