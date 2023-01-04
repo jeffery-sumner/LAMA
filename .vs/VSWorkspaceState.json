@@ -5,9 +5,11 @@
     "\\assets\\css",
     "\\assets\\js",
     "\\assets\\sass",
-    "\\assets\\webfonts",
-    "\\images"
+    "\\assets\\sass\\base",
+    "\\assets\\sass\\components",
+    "\\assets\\sass\\layout",
+    "\\assets\\sass\\libs"
   ],
-  "SelectedNode": "\\assets\\js",
+  "SelectedNode": "\\assets\\js\\breakpoints.min.js",
   "PreviewInSolutionExplorer": false
 }
